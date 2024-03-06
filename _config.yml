@@ -1,18 +1,17 @@
 title: <p align="center"> Trang Thanh Phúc </p>
 
-# logo: /assets/img/logo.png
+logo: /assets/img/logo.png
 
 description: <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/chriskhanhtran/">LinkedIn</a> |
   <a href="https://github.com/chriskhanhtran">GitHub</a>
   </p>
 
   <p align="justify">
-  I am pursing MS degree in Business Analytics at Simon Business School, University of Rochester.
+  I'm currently a fourth-year student at Saigon University. With a motto of responsibility towards work, I have a desire to contribute to businesses in a frontend dev position.
   <br><br>
-  I am currently a Machine Learning Research Intern at Skim AI Technologies with a focus on NLP and Deep Learning research.
   <br><br>
+
   </p>
 
 theme: jekyll-theme-minimal
