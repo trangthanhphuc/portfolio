@@ -1,15 +1,4 @@
-title: <p align="center"> Trang Thanh Phúc </p>
-
-logo: /assets/img/logo.jpg
-
-description: <p align="center">
-  <a href="assets/img/cv.pdf">Resume</a> |
-  <a href="https://github.com/trangthanhphuc">GitHub</a>
-  </p>
-
-  <p align="justify">
-  I'm currently a fourth-year student at Saigon University.
-  <br><br>
-  </p>
-
+title: sda
+logo: "/assets/img/goku.png?raw=true"
+description: Full-Stack Developer
 theme: jekyll-theme-minimal
