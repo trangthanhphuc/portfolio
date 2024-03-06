@@ -1,4 +1,14 @@
-title: sda
-logo: "/assets/img/goku.png?raw=true"
-description: Full-Stack Developer
+title: <p align="center"> Trang Thanh Phúc </p>
+
+logo: /assets/img/logo.jpg
+description: <p align="center">
+  <a href="/assets/img/cv.pdf">Resume</a> |
+  <a href="https://github.com/trangthanhphuc">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I'm currently a fourth-year student at Saigon University. With a motto of responsibility towards work, I have a desire to contribute to businesses in a frontend dev position.
+  <br><br>
+  </p>
+
 theme: jekyll-theme-minimal
