@@ -1,5 +1,12 @@
-title: Trang Thanh Phúc
+title: <p align="center"> Trang Thanh Phúc </p>
+
 # logo: /assets/img/headshot_circle.png
-#description: text below image
-show_downloads: true
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/chriskhanhtran/">LinkedIn</a> |
+  <a href="https://github.com/trangthanhphuc">GitHub</a>
+  </p>
+  
 theme: jekyll-theme-minimal
