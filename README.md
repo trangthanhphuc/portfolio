@@ -1,11 +1,21 @@
-# Frontend Developer
+# Portfolio
+
+---
+
+## Frontend Development
+
+---
 
 #### Technical Skills: Javascript (ReactJS, ReactNative), Laravel(PHP), Springboot(Java), MySql, Tailwind, Restful API
+
+---
 
 ## Education
 
 - SGU - SAI GON UNIVERSITY (2020-2024).
 - GPA: 3.0/4.0.
+
+---
 
 ## Skills
 
@@ -18,7 +28,11 @@ Tailwind, bootstrap: Have working on many projects.
 
 Laravel (PHP), Spring boot (Java): Capable of performing CRUD operations, advanced search, pagination, login/logout functionality, sending emails, etc.
 
+---
+
 ## Projects
+
+---
 
 ### SGU Feedback App & SGU Feedback Website
 
@@ -47,6 +61,8 @@ React Native, React, Laravel (PHP), Inertiajs.
 
 ![EEG Band Discovery](/assets/img/project_3.png)
 
+---
+
 ### EcommerceApp
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/teamdptl/EcommerceApp)
@@ -70,6 +86,8 @@ Build homepage, carousel, shipping information, generate PDF upon successful ord
 ReactJS (Flowbite React), Tailwind, Java (Springboot).
 
 ![EEG Band Discovery](/assets/img/project_1.png)
+
+---
 
 ### Website Cinema
 
