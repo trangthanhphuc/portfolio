@@ -15,6 +15,7 @@
 - SGU - SAI GON UNIVERSITY (2020-2024).
 - GPA: 3.0/4.0.
 - Awarded scholarships from the school for two consecutive years.
+
 ---
 
 ## Skills
