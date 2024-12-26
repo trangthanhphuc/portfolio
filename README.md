@@ -2,7 +2,7 @@
 
 ---
 
-##  Business Analyst - Tester Fresher/Intern }} \\ \vspace{8pt} % Điều chỉnh kích thước chữ và căn giữa
+##  Business Analyst - Tester Fresher/Intern 
 
 ---
 
